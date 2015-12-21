@@ -1,0 +1,8 @@
+NomHazard Fire 32 32 1 5 0 6 0 </animCo> -1144862209 100 2 00 1 0 0 0 0
+NomHazard Electricity 192 176 1 7 0 8 0 </animCo> -704643073 100 1 00 1 0 0 0 0
+NomSpawner Peach_Tree 88 184 1746818303 4 1 5 1 6 1 4 2 5 2 6 2 4 3 5 3 6 3 </animCo> 0 0 8 0 16 0 0 8 8 8 16 8 0 16 8 16 16 16 </placeCo> 9 1000 10000 88 190 
+NommableMob Peach 88 176 0 16 0 </animCo> 10 180 -708197633 1000 00 1 -1 0 0 0 0 1 1000 chewable 
+Peach_Pit 88 176 2 15 0 </animCo> 0 180 1093293311 1000 00 1 -1 0 0 0 0 0 0 null
+NomHazard Death 32 64 1 20 0 17 0 </animCo> -42699 1000 5 00 1 0 0 0 0
+NomDoor /levels/Title.png 8 32 -1927326678 29 0 30 0 29 1 30 1 0 1 1 1 0 2 1 2 </animCo> 0 0 1000
+NomDoor /levels/SecondLevel.png 160 32 -1927326678 29 0 30 0 29 1 30 1 0 1 1 1 0 2 1 2 </animCo> 1 1 1000

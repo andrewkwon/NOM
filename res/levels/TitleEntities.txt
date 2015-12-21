@@ -1,0 +1,2 @@
+NomSign 80 120 24 -679521025 555 0 -172 Grand Poobah Door:
+NomDoor /levels/TestLevel.png 88 112 599380735 25 0 26 0 25 1 26 1 27 0 28 0 27 1 28 1 </animCo> 0 0 1000
